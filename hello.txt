@@ -1,3 +1,4 @@
 hello git!
 good bye git!
 it was modified in hot-fix branch!
+first changed!
